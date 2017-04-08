@@ -1,0 +1,10 @@
+[package]
+name = "serviceworkify"
+version = "0.1.0"
+authors = ["bjorn3 <bjorn3@users.noreply.github.com>"]
+
+[dependencies]
+hyper = "0.10"
+hyper-native-tls = "0.2"
+lazy_static = "0.2"
+convenience = "0.1"
